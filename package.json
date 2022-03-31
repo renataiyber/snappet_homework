@@ -1,0 +1,22 @@
+{
+  "name": "snappet_homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renataiyber/snappet_homework.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renataiyber/snappet_homework/issues"
+  },
+  "homepage": "https://github.com/renataiyber/snappet_homework#readme",
+  "devDependencies": {
+    "cypress": "^9.5.3"
+  }
+}
